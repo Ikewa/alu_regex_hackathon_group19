@@ -1,7 +1,6 @@
 import re
 
-api_response = 
-"""
+api_response = """
 
 Hex Color Codes: "#FF4500", "#00FFFF"
 """

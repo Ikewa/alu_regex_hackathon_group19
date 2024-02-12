@@ -1,7 +1,7 @@
 import re
 
-api_response = 
-"""
+api_response = """
+
 Weirdly Formatted Dates: "12-Feb-2023", "21-Oct-2010"
 """
 
