@@ -9,4 +9,3 @@ joke_pattern = r'"Why did the (.+?) \? Because(.+?)"'
 jokes = re.findall(joke_pattern, api_response)
 
 print("Jokes:", jokes)
-
